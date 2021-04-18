@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Traffic-lights/static/css/main.95bf2984.chunk.css",
-    "main.js": "/Traffic-lights/static/js/main.f268cca2.chunk.js",
-    "main.js.map": "/Traffic-lights/static/js/main.f268cca2.chunk.js.map",
+    "main.js": "/Traffic-lights/static/js/main.61416989.chunk.js",
+    "main.js.map": "/Traffic-lights/static/js/main.61416989.chunk.js.map",
     "runtime-main.js": "/Traffic-lights/static/js/runtime-main.daf0f17b.js",
     "runtime-main.js.map": "/Traffic-lights/static/js/runtime-main.daf0f17b.js.map",
     "static/js/2.0909a33f.chunk.js": "/Traffic-lights/static/js/2.0909a33f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.daf0f17b.js",
     "static/js/2.0909a33f.chunk.js",
     "static/css/main.95bf2984.chunk.css",
-    "static/js/main.f268cca2.chunk.js"
+    "static/js/main.61416989.chunk.js"
   ]
 }
