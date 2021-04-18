@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Traffic-lights/static/css/main.95bf2984.chunk.css",
+    "main.js": "/Traffic-lights/static/js/main.f268cca2.chunk.js",
+    "main.js.map": "/Traffic-lights/static/js/main.f268cca2.chunk.js.map",
+    "runtime-main.js": "/Traffic-lights/static/js/runtime-main.daf0f17b.js",
+    "runtime-main.js.map": "/Traffic-lights/static/js/runtime-main.daf0f17b.js.map",
+    "static/js/2.0909a33f.chunk.js": "/Traffic-lights/static/js/2.0909a33f.chunk.js",
+    "static/js/2.0909a33f.chunk.js.map": "/Traffic-lights/static/js/2.0909a33f.chunk.js.map",
+    "static/js/3.786cab2a.chunk.js": "/Traffic-lights/static/js/3.786cab2a.chunk.js",
+    "static/js/3.786cab2a.chunk.js.map": "/Traffic-lights/static/js/3.786cab2a.chunk.js.map",
+    "index.html": "/Traffic-lights/index.html",
+    "static/css/main.95bf2984.chunk.css.map": "/Traffic-lights/static/css/main.95bf2984.chunk.css.map",
+    "static/js/2.0909a33f.chunk.js.LICENSE.txt": "/Traffic-lights/static/js/2.0909a33f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daf0f17b.js",
+    "static/js/2.0909a33f.chunk.js",
+    "static/css/main.95bf2984.chunk.css",
+    "static/js/main.f268cca2.chunk.js"
+  ]
+}
